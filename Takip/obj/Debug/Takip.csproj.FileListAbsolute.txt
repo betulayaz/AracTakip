@@ -1,0 +1,157 @@
+C:\Users\ayaz\source\repos\Takip\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\source\repos\Takip\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\source\repos\Takip\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\source\repos\Takip\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\source\repos\Takip\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\source\repos\Takip\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\source\repos\Takip\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\source\repos\Takip\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\source\repos\Takip\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\Takip\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\Takip\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\Takip\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\Takip\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\Takip\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\Takip\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\Takip\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\Takip\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\Takip\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\Takip - Copy (5)\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csprojAssemblyReference.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csprojAssemblyReference.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\TakipCopy8 - Copy - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\EN SON - Copy (2)\Takip\obj\Debug\Takip.csprojAssemblyReference.cache
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\bin\Debug\Takip.exe.config
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\bin\Debug\Takip.exe
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\bin\Debug\Takip.pdb
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.exe
+C:\Users\ayaz\Desktop\EN SON - Copy (2) - Copy - Copy\Takip\obj\Debug\Takip.pdb
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\bin\Debug\Takip.exe.config
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\bin\Debug\Takip.exe
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\bin\Debug\Takip.pdb
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\obj\Debug\Takip.csproj.AssemblyReference.cache
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\obj\Debug\Takip.Form1.resources
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\obj\Debug\Takip.Properties.Resources.resources
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\obj\Debug\Takip.csproj.GenerateResource.cache
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\obj\Debug\Takip.csproj.CoreCompileInputs.cache
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\obj\Debug\Takip.exe
+C:\Users\Bet\Desktop\araçtakip\EN SON BÜYÜK EKRAN\Takip\obj\Debug\Takip.pdb
